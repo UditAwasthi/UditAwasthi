@@ -1,79 +1,91 @@
 <div align="center">
 
-# <span style="color:#800000;">Hi, I'm Udit 👋</span>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,100:800000&height=200&section=header&text=UDIT&fontSize=60&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=800000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Builder;React+%7C+Node+%7C+Python;Building+the+Future" />
-
-</div>
-
----
-
-## 🩸 About Me
-
-```diff
-+ Full Stack Developer
-+ AI Enthusiast
-+ MERN Stack Specialist
-+ Building futuristic products
-```
-
----
-
-## ⚒️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,js,ts,tailwind,git,github,linux" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=4000&pause=1000&color=800000&center=true&vCenter=true&width=700&lines=SYSTEM+INITIALIZING...;AI+DEVELOPER;FULL+STACK+ENGINEER;BUILDING+THE+FUTURE" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&title_color=800000&icon_color=800000&text_color=ffffff&bg_color=000000&border_color=800000"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=black-ice&ring=800000&fire=800000&currStreakLabel=800000&background=000000&border=800000"/>
-
-</div>
-
----
-
-## 🚀 Top Languages
-
-<div align="center">
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&title_color=800000&text_color=ffffff&bg_color=000000&border_color=800000"/>
-
-</div>
-
----
-
-## 🧠 Current Focus
+# ⚡ Neural Profile
 
 ```yaml
-Learning:
-  - Advanced Backend Architecture
-  - AI Integration
-  - System Design
-
-Building:
-  - AI Apps
-  - Full Stack Projects
-  - Developer Tools
+Name: Udit
+Role: AI Developer
+Specialization: Full Stack + Artificial Intelligence
+System: Online
+Status: Building Next Generation Software
+Location: India
 ```
 
 ---
 
-## 🌐 Connect With Me
+# 🧠 Tech Matrix
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-800000?style=for-the-badge&logo=vercel&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-800000?style=for-the-badge&logo=linkedin&logoColor=white)]()
-[![Twitter](https://img.shields.io/badge/Twitter-800000?style=for-the-badge&logo=twitter&logoColor=white)]()
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,python,js,ts,tailwind,linux,git,github,vscode&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 System Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=800000&text_color=ffffff&icon_color=800000&border_color=800000"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&stroke=800000&ring=800000&fire=800000&currStreakLabel=800000&border=800000"/>
+
+</div>
+
+---
+
+# 🧬 Core Languages
+
+<div align="center">
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=800000&text_color=ffffff&border_color=800000"/>
+
+</div>
+
+---
+
+# 🚀 Active Protocols
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+
+---
+
+# 🧩 Contribution Grid
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=800000&line=800000&point=ffffff&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Neural Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect Interface
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-800000?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-800000?style=for-the-badge&logo=vercel&logoColor=white)]()
+[![Email](https://img.shields.io/badge/EMAIL-800000?style=for-the-badge&logo=gmail&logoColor=white)]()
 
 </div>
 
@@ -81,6 +93,6 @@ Building:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=800000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:800000,100:000000&height=150&section=footer"/>
 
 </div>
