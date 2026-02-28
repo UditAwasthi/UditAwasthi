@@ -35,9 +35,9 @@ Location: India
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=800000&text_color=ffffff&icon_color=800000&border_color=800000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UditAwasthi&show_icons=true&theme=transparent&title_color=800000&text_color=ffffff&icon_color=800000&border_color=800000"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&stroke=800000&ring=800000&fire=800000&currStreakLabel=800000&border=800000"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UditAwasthi&theme=transparent&stroke=800000&ring=800000&fire=800000&currStreakLabel=800000&border=800000"/>
 
 </div>
 
@@ -47,7 +47,7 @@ Location: India
 
 <div align="center">
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=800000&text_color=ffffff&border_color=800000"/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditAwasthi&layout=compact&theme=transparent&title_color=800000&text_color=ffffff&border_color=800000"/>
 
 </div>
 
@@ -55,7 +55,7 @@ Location: India
 
 # 🚀 Active Protocols
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UditAwasthi&theme=github_dark"/>
 
 ---
 
@@ -63,7 +63,7 @@ Location: India
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=000000&color=800000&line=800000&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UditAwasthi&bg_color=000000&color=800000&line=800000&point=ffffff&area=true&hide_border=true"/>
 
 </div>
 
@@ -73,7 +73,7 @@ Location: India
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/UditAwasthi/UditAwasthi/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
