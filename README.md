@@ -1,170 +1,205 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        UDIT AWASTHI — README                      -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!-- /////////////////////////////////////////////////////////////////////// -->
+<!--                    U D I T   A W A S T H I                            -->
+<!--                    github.com/UditAwasthi                             -->
+<!-- /////////////////////////////////////////////////////////////////////// -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:1a0000,70:8b0000,100:000000&height=280&section=header&text=UDIT%20AWASTHI&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=FULL%20STACK%20ENGINEER%20%E2%80%94%20SYSTEMS%20ARCHITECT&descSize=16&descAlignY=62&descColor=ff6666&stroke=8b0000&strokeWidth=2" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0000&height=4&section=header" />
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0000,50:1a0000,100:000000&height=320&text=UDIT%20AWASTHI&fontSize=72&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=FULL%20STACK%20ENGINEER%20%E2%80%94%20SYSTEMS%20ARCHITECT&descSize=14&descAlignY=60&descColor=aa3333&stroke=8b0000&strokeWidth=1" />
 
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=17&duration=4000&pause=1200&color=8B0000&center=true&vCenter=true&width=700&lines=Distributed+Systems+%E2%80%94+Real-Time+Infrastructure;React+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+Python;Kafka+%C2%B7+CRDTs+%C2%B7+WebSockets+%C2%B7+gRPC;Monorepos+%C2%B7+Turborepo+%C2%B7+Nx+%C2%B7+Docker;Building+Systems+That+Scale+%E2%9A%A1" />
+
+```
+         ╔──────────────────────────────────────────────────────────────────╗
+         │  Distributed Systems  ·  Real-Time Infra  ·  Scalable Web Apps  │
+         ╚──────────────────────────────────────────────────────────────────╝
+```
+
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=15&duration=4500&pause=1000&color=8B0000&center=true&vCenter=true&multiline=false&width=620&lines=React+%C2%B7+React+Native+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+Django;Kafka+%C2%B7+CRDTs+%C2%B7+gRPC+%C2%B7+WebSockets+%C2%B7+CQRS;MongoDB+%C2%B7+Redis+%C2%B7+TimescaleDB+%C2%B7+Docker;Turborepo+%C2%B7+Nx+%C2%B7+Monorepos+%C2%B7+C%2B%2B" />
+
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/udit-awasthi-661662299/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/%20Portfolio-8b0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=8b0000)](https://uditawasthi.vercel.app)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/%20GitHub-161b22?style=for-the-badge&logo=github&logoColor=white&labelColor=161b22)](https://github.com/UditAwasthi)&nbsp;&nbsp;![Visitors](https://komarev.com/ghpvc/?username=UditAwasthi&style=for-the-badge&color=8b0000&labelColor=0d1117&label=VISITORS)
+[![](https://img.shields.io/badge/─────────────────────────────────────────────────────-8b0000?style=flat-square&labelColor=8b0000)](.)
 
 </div>
 
-<br/>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=8b0000&labelColor=0a0a0a)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)&ensp;[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=8b0000&labelColor=0a0a0a)](https://uditawasthi.in)&ensp;[![GitHub](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=8b0000&labelColor=0a0a0a)](https://github.com/UditAwasthi)&ensp;[![Visitors](https://komarev.com/ghpvc/?username=UditAwasthi&style=for-the-badge&color=8b0000&labelColor=0a0a0a&label=VISITORS)](.)
+
+</div>
+
+<br/><br/>
 
 ---
 
 <br/>
 
-<!-- ═══════ ABOUT ═══════ -->
-
-```
- ██╗   ██╗██████╗ ██╗████████╗    █████╗ ██╗    ██╗ █████╗ ███████╗████████╗██╗  ██╗██╗
- ██║   ██║██╔══██╗██║╚══██╔══╝   ██╔══██╗██║    ██║██╔══██╗██╔════╝╚══██╔══╝██║  ██║██║
- ██║   ██║██║  ██║██║   ██║      ███████║██║ █╗ ██║███████║███████╗   ██║   ███████║██║
- ██║   ██║██║  ██║██║   ██║      ██╔══██║██║███╗██║██╔══██║╚════██║   ██║   ██╔══██║██║
- ╚██████╔╝██████╔╝██║   ██║      ██║  ██║╚███╔███╔╝██║  ██║███████║   ██║   ██║  ██║██║
-  ╚═════╝ ╚═════╝ ╚═╝   ╚═╝      ╚═╝  ╚═╝ ╚══╝╚══╝ ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝
-```
+<!-- ░░░░░░░░░░░░░░░░░░░░░ MANIFEST ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-```yaml
-  Role        ──  Full Stack Engineer & Systems Architect
-  Craft       ──  Distributed Systems · Real-Time Infrastructure · Scalable Web
-  Stack       ──  React · Node.js · Python · Kafka · Redis · Docker
-  Location    ──  India  🇮🇳
-  Status      ──  Building systems that matter  ⚡
-```
-
-</div>
-
-<br/>
-
----
-
-<br/>
-
-<!-- ═══════ TECH STACK ═══════ -->
-
-<div align="center">
-
-## ◈ TECH STACK
-
-<br/>
-
-<!-- LAYER 01 -->
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
-<td align="center" width="100%">
+<td>
 
-**`[ LAYER 01 ]`** &nbsp;&nbsp; **FRONTEND**
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&theme=dark" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=1a1a1a" height="28"/>
-<img src="https://img.shields.io/badge/Zustand-000?style=flat-square&logo=react&logoColor=white&labelColor=111" height="28"/>
+```
+ ┌─────────────────────────────────────────────────────────┐
+ │                                                         │
+ │   role       Full Stack Engineer & Systems Architect    │
+ │   craft      Distributed Systems · Real-Time · Scale    │
+ │   stack      React · Node · Python · Kafka · Redis      │
+ │   location   India  🇮🇳                                  │
+ │   status     [ ONLINE ]  Building systems that matter   │
+ │                                                         │
+ └─────────────────────────────────────────────────────────┘
+```
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
 
-<!-- LAYER 02 -->
+---
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░ STACK ░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<h2>◤ TECH STACK ◢</h2>
+
+<br/>
+
+<!--  ╔═════════════════════════════════════════════════╗  -->
+<!--  ║               LAYER  0 1                       ║  -->
+<!--  ╚═════════════════════════════════════════════════╝  -->
+
 <table>
-<tr>
-<td align="center" width="100%">
-
-**`[ LAYER 02 ]`** &nbsp;&nbsp; **BACKEND**
+<thead>
+<tr><th align="center">
+<code>LAYER 01</code> &nbsp;·&nbsp; FRONTEND
+</th></tr>
+</thead>
+<tbody>
+<tr><td align="center">
+<br/>
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,vite&theme=dark" />
+<br/><br/>
+<img src="https://img.shields.io/badge/React_Native-0d0d0d?style=flat-square&logo=react&logoColor=61DAFB" height="26"/>&ensp;<img src="https://img.shields.io/badge/Zustand-0d0d0d?style=flat-square&logo=react&logoColor=aa4444" height="26"/>
+<br/><br/>
+</td></tr>
+</tbody>
+</table>
 
 <br/>
 
+<!--  ╔═════════════════════════════════════════════════╗  -->
+<!--  ║               LAYER  0 2                       ║  -->
+<!--  ╚═════════════════════════════════════════════════╝  -->
+
+<table>
+<thead>
+<tr><th align="center">
+<code>LAYER 02</code> &nbsp;·&nbsp; BACKEND
+</th></tr>
+</thead>
+<tbody>
+<tr><td align="center">
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask&theme=dark" />
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/gRPC-244c5a?style=flat-square&logo=google&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socket.io&logoColor=white" height="28"/>
-
-</td>
-</tr>
+<img src="https://img.shields.io/badge/gRPC-0d0d0d?style=flat-square&logo=google&logoColor=aa4444" height="26"/>&ensp;<img src="https://img.shields.io/badge/WebSockets-0d0d0d?style=flat-square&logo=socket.io&logoColor=aa4444" height="26"/>
+<br/><br/>
+</td></tr>
+</tbody>
 </table>
 
 <br/>
 
-<!-- LAYER 03 -->
+<!--  ╔═════════════════════════════════════════════════╗  -->
+<!--  ║               LAYER  0 3                       ║  -->
+<!--  ╚═════════════════════════════════════════════════╝  -->
+
 <table>
-<tr>
-<td align="center" width="100%">
-
-**`[ LAYER 03 ]`** &nbsp;&nbsp; **DATA & INFRA**
-
+<thead>
+<tr><th align="center">
+<code>LAYER 03</code> &nbsp;·&nbsp; DATA &amp; INFRA
+</th></tr>
+</thead>
+<tbody>
+<tr><td align="center">
 <br/>
-
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis,docker&theme=dark" />
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=postgresql&logoColor=black" height="28"/>
-
-</td>
-</tr>
+<img src="https://img.shields.io/badge/TimescaleDB-0d0d0d?style=flat-square&logo=postgresql&logoColor=FDB515" height="26"/>
+<br/><br/>
+</td></tr>
+</tbody>
 </table>
 
 <br/>
 
-<!-- LAYER 04 -->
+<!--  ╔═════════════════════════════════════════════════╗  -->
+<!--  ║               LAYER  0 4                       ║  -->
+<!--  ╚═════════════════════════════════════════════════╝  -->
+
 <table>
-<tr>
-<td align="center" width="100%">
-
-**`[ LAYER 04 ]`** &nbsp;&nbsp; **DISTRIBUTED SYSTEMS**
-
+<thead>
+<tr><th align="center">
+<code>LAYER 04</code> &nbsp;·&nbsp; DISTRIBUTED SYSTEMS
+</th></tr>
+</thead>
+<tbody>
+<tr><td align="center">
 <br/>
-
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Avro_/_Schema_Registry-E25A1C?style=flat-square&logo=apache&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/CRDTs-8b0000?style=flat-square&logo=buffer&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/CQRS-8b0000?style=flat-square&logo=buffer&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/LZ4_Compression-2d2d2d?style=flat-square&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" height="28"/>
-
-</td>
-</tr>
+<img src="https://img.shields.io/badge/Kafka-0d0d0d?style=flat-square&logo=apache-kafka&logoColor=aa4444" height="26"/>&ensp;<img src="https://img.shields.io/badge/Avro_/_Schema_Registry-0d0d0d?style=flat-square&logo=apache&logoColor=E25A1C" height="26"/>&ensp;<img src="https://img.shields.io/badge/CRDTs-0d0d0d?style=flat-square&logoColor=aa4444" height="26"/>&ensp;<img src="https://img.shields.io/badge/CQRS-0d0d0d?style=flat-square&logoColor=aa4444" height="26"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/LZ4_Compression-0d0d0d?style=flat-square&logoColor=aaaaaa" height="26"/>&ensp;<img src="https://img.shields.io/badge/JWT-0d0d0d?style=flat-square&logo=jsonwebtokens&logoColor=aaaaaa" height="26"/>
+<br/><br/>
+</td></tr>
+</tbody>
 </table>
 
 <br/>
 
-<!-- LAYER 05 -->
+<!--  ╔═════════════════════════════════════════════════╗  -->
+<!--  ║               LAYER  0 5                       ║  -->
+<!--  ╚═════════════════════════════════════════════════╝  -->
+
 <table>
-<tr>
-<td align="center" width="100%">
-
-**`[ LAYER 05 ]`** &nbsp;&nbsp; **LANGUAGES & TOOLING**
-
+<thead>
+<tr><th align="center">
+<code>LAYER 05</code> &nbsp;·&nbsp; LANGUAGES &amp; TOOLING
+</th></tr>
+</thead>
+<tbody>
+<tr><td align="center">
 <br/>
-
 <img src="https://skillicons.dev/icons?i=cpp,git,github&theme=dark" />
-
 <br/><br/>
-
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white" height="28"/>
-<img src="https://img.shields.io/badge/Nx_Monorepo-143055?style=flat-square&logo=nx&logoColor=white" height="28"/>
-
-</td>
-</tr>
+<img src="https://img.shields.io/badge/Turborepo-0d0d0d?style=flat-square&logo=turborepo&logoColor=EF4444" height="26"/>&ensp;<img src="https://img.shields.io/badge/Nx_Monorepo-0d0d0d?style=flat-square&logo=nx&logoColor=6baad8" height="26"/>
+<br/><br/>
+</td></tr>
+</tbody>
 </table>
 
 </div>
@@ -175,20 +210,19 @@
 
 <br/>
 
-<!-- ═══════ GITHUB STATS ═══════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## ◈ GITHUB STATS
+<h2>◤ GITHUB STATS ◢</h2>
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=UditAwasthi&show_icons=true&theme=github_dark&title_color=8b0000&icon_color=8b0000&border_color=30363d&bg_color=0d1117&text_color=c9d1d9&rank_icon=github&hide_border=false&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=UditAwasthi&theme=github-dark-blue&ring=8b0000&fire=cc2200&currStreakLabel=8b0000&border=30363d&background=0d1117&stroke=30363d&sideLabels=c9d1d9&dates=666" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=UditAwasthi&show_icons=true&theme=github_dark&title_color=8b0000&icon_color=8b0000&border_color=1a1a1a&bg_color=0d0d0d&text_color=cccccc&rank_icon=github&include_all_commits=true&count_private=true&hide_border=false" />&nbsp;<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=UditAwasthi&theme=github-dark-blue&ring=8b0000&fire=cc2200&currStreakLabel=8b0000&border=1a1a1a&background=0d0d0d&stroke=1a1a1a&sideLabels=cccccc&dates=555555" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditAwasthi&layout=compact&theme=github_dark&title_color=8b0000&border_color=30363d&bg_color=0d1117&text_color=c9d1d9&langs_count=8&hide_border=false" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditAwasthi&layout=compact&theme=github_dark&title_color=8b0000&border_color=1a1a1a&bg_color=0d0d0d&text_color=cccccc&langs_count=8" />
 
 </div>
 
@@ -198,15 +232,15 @@
 
 <br/>
 
-<!-- ═══════ TROPHIES ═══════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## ◈ TROPHIES
+<h2>◤ TROPHIES ◢</h2>
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=UditAwasthi&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=UditAwasthi&theme=radical&no-frame=true&column=7&margin-w=12&margin-h=12&no-bg=true" />
 
 </div>
 
@@ -216,15 +250,15 @@
 
 <br/>
 
-<!-- ═══════ CONTRIBUTION GRAPH ═══════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ GRAPH ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## ◈ CONTRIBUTION GRAPH
+<h2>◤ CONTRIBUTION GRAPH ◢</h2>
 
 <br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UditAwasthi&bg_color=0d1117&color=8b0000&line=8b0000&point=ff6666&area=true&area_color=8b000030&hide_border=true&radius=8&custom_title=Udit%20Awasthi%20—%20Contribution%20Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UditAwasthi&bg_color=0d0d0d&color=8b0000&line=8b0000&point=cc3333&area=true&area_color=8b000025&hide_border=true&radius=6&custom_title=Contribution%20Activity%20—%20Udit%20Awasthi" />
 
 </div>
 
@@ -234,11 +268,11 @@
 
 <br/>
 
-<!-- ═══════ PROFILE SUMMARY ═══════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ SUMMARY ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## ◈ PROFILE SUMMARY
+<h2>◤ PROFILE SUMMARY ◢</h2>
 
 <br/>
 
@@ -246,9 +280,7 @@
 
 <br/><br/>
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UditAwasthi&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UditAwasthi&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UditAwasthi&theme=github_dark&utcOffset=5.5" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=UditAwasthi&theme=github_dark" />&nbsp;<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=UditAwasthi&theme=github_dark" />&nbsp;<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=UditAwasthi&theme=github_dark&utcOffset=5.5" />
 
 </div>
 
@@ -258,11 +290,11 @@
 
 <br/>
 
-<!-- ═══════ SNAKE ═══════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ SNAKE ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-## ◈ CONTRIBUTION SNAKE
+<h2>◤ CONTRIBUTION SNAKE ◢</h2>
 
 <br/>
 
@@ -280,18 +312,23 @@
 
 <br/>
 
-<!-- ═══════ FOOTER ═══════ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Complexity%20is%20easy.%20Clarity%20is%20the%20craft.&author=Udit%20Awasthi" />
-
-<br/><br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-8b0000?style=for-the-badge&logo=vercel&logoColor=white)](https://uditawasthi.in)&nbsp;&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UditAwasthi)
+```
+        " Complexity is easy.  Clarity is the craft. "
+                                         — Udit Awasthi
+```
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:1a0000,100:8b0000&height=140&section=footer&animation=fadeIn" />
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=8b0000&labelColor=0a0a0a)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)&ensp;[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=8b0000&labelColor=0a0a0a)](https://uditawasthi.in)&ensp;[![GitHub](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=8b0000&labelColor=0a0a0a)](https://github.com/UditAwasthi)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0000&height=4&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0000,50:8b0000,100:000000&height=100&section=footer&animation=fadeIn&reversal=true" />
 
 </div>
