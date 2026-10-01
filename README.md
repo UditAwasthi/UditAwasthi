@@ -1,35 +1,35 @@
 <!-- /////////////////////////////////////////////////////////////////////// -->
 <!--  u d i t   a w a s t h i  ·  github.com/UditAwasthi                     -->
-<!--  monochrome steel · gunmetal 30363d · silver c9d1d9 · sharp             -->
+<!--  the dark knight build · night black 0a0a0a · bat gold F5C518            -->
 <!-- /////////////////////////////////////////////////////////////////////// -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slicing&color=0:0d1117,100:30363d&height=240&text=UDIT%20AWASTHI&fontSize=74&fontColor=ffffff&fontAlignY=40&desc=BACKEND%20%C2%B7%20DISTRIBUTED%20SYSTEMS%20%C2%B7%20REAL-TIME%20INFRASTRUCTURE&descSize=15&descAlignY=58&descColor=c9d1d9&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:0a0a0a&height=270&text=UDIT%20AWASTHI&fontSize=74&fontColor=ffffff&fontAlignY=38&desc=I%20BUILD%20SYSTEMS%20THAT%20THRIVE%20IN%20THE%20DARK&descSize=16&descAlignY=56&descColor=F5C518&animation=fadeIn" alt="header" />
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=4000&pause=800&color=C9D1D9&center=true&vCenter=true&width=680&lines=SYSTEMS+THAT+STAY+FAST+WHEN+THEY+GET+BIG;REDIS%2C+IN+RUST%2C+FROM+SCRATCH;KAFKA+%C2%B7+GRPC+%C2%B7+WEBSOCKETS+%C2%B7+CRDTS;RECOMMENDATION+ENGINES+IN+PYTHON" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=4000&pause=800&color=F5C518&center=true&vCenter=true&width=680&lines=REDIS%2C+IN+RUST%2C+FROM+SCRATCH;KAFKA+%C2%B7+GRPC+%C2%B7+WEBSOCKETS+%C2%B7+CRDTS;SILENT.+RELIABLE.+ALWAYS+ON.;RECOMMENDATION+ENGINES+IN+PYTHON" alt="typing" /></a>
 
 <br/>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=vercel&logoColor=8b949e)](https://uditawasthi.in)
-[![GITHUB](https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/UditAwasthi)
-[![VISITORS](https://komarev.com/ghpvc/?username=UditAwasthi&style=for-the-badge&label=VISITORS&color=30363d&labelColor=161b22)](./)
+[![GOTHAM](https://img.shields.io/badge/🦇-GOTHAM-F5C518?style=for-the-badge&labelColor=0a0a0a)](https://github.com/UditAwasthi)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://uditawasthi.in)
+[![VISITORS](https://komarev.com/ghpvc/?username=UditAwasthi&style=for-the-badge&label=VISITORS&color=F5C518&labelColor=0a0a0a)](./)
 
 </div>
 
 <br/>
 
-<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:c9d1d9" alt="" /></div>
+<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,100:F5C518" alt="" /></div>
 
 <br/>
 
 I build backend systems end to end — from wire protocol to dashboard.
 
-The work I do sits where throughput, correctness and real-time meet:
-event pipelines, caches, replication, and the APIs in front of them.
+Most of my work runs where nobody looks — caches, pipelines, replicas.
+Silent. Reliable. Always on.
 TypeScript first, Rust when it needs to be fast, Python when it needs to be smart.
 
 Right now I'm building **[kairos](https://github.com/UditAwasthi/kairos)** —
@@ -39,20 +39,22 @@ language. *(expo · nestjs · prisma · postgres)*
 <br/>
 
 ```text
-[ 01 ]  ship systems, not slides
-[ 02 ]  measure before you claim
-[ 03 ]  complexity is easy — clarity is the craft
+──────────────────  T H E   O A T H  ──────────────────
+
+    [ 01 ]  ship systems, not slides
+    [ 02 ]  measure before you claim
+    [ 03 ]  complexity is easy — clarity is the craft
 ```
 
 <br/>
 
-<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:c9d1d9" alt="" /></div>
+<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,100:F5C518" alt="" /></div>
 
 <br/>
 
 <div align="center">
 
-## ▌ FEATURED WORK
+## 🦇 FEATURED WORK
 
 | PROJECT | WHAT IT IS |
 | --- | --- |
@@ -64,11 +66,11 @@ language. *(expo · nestjs · prisma · postgres)*
 
 <br/>
 
-<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:c9d1d9" alt="" /></div>
+<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,100:F5C518" alt="" /></div>
 
 <br/>
 
-## ▌ STACK
+## 🦇 THE ARSENAL
 
 <br/>
 
@@ -81,30 +83,40 @@ INFRA         docker · aws · prometheus · grafana · turborepo
 FRONT         react · react native · next.js · tailwind · electron
 ```
 
+<br/>
+
+[![kafka](https://img.shields.io/badge/kafka-0a0a0a?style=flat-square&logo=apache-kafka&logoColor=F5C518)](https://kafka.apache.org/)
+[![grpc](https://img.shields.io/badge/grpc-0a0a0a?style=flat-square&logo=google&logoColor=F5C518)](https://grpc.io/)
+[![docker](https://img.shields.io/badge/docker-0a0a0a?style=flat-square&logo=docker&logoColor=F5C518)](https://docker.com/)
+[![aws](https://img.shields.io/badge/aws-0a0a0a?style=flat-square&logo=amazonwebservices&logoColor=F5C518)](https://aws.amazon.com/)
+[![prometheus](https://img.shields.io/badge/prometheus-0a0a0a?style=flat-square&logo=prometheus&logoColor=F5C518)](https://prometheus.io/)
+[![grafana](https://img.shields.io/badge/grafana-0a0a0a?style=flat-square&logo=grafana&logoColor=F5C518)](https://grafana.com/)
+[![turborepo](https://img.shields.io/badge/turborepo-0a0a0a?style=flat-square&logo=turborepo&logoColor=F5C518)](https://turbo.build/)
+
 </div>
 
 <br/>
 
-<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:c9d1d9" alt="" /></div>
+<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,100:F5C518" alt="" /></div>
 
 <br/>
 
 <div align="center">
 
-## ▌ NUMBERS
+## 🦇 THE RECORD
 
 <br/>
 
-<a href="https://github.com/UditAwasthi"><img height="170" src="https://github-readme-stats.vercel.app/api?username=UditAwasthi&show_icons=true&icon_color=c9d1d9&title_color=ffffff&text_color=8b949e&bg_color=0d1117&border_color=30363d&count_private=true&include_all_commits=true" alt="stats" /></a>
-<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="170" src="https://streak-stats.demolab.com/?user=UditAwasthi&base=0d1117&ring=c9d1d9&fire=8b949e&currStreakLabel=ffffff&currStreakNum=ffffff&sideLabels=8b949e&sideNums=c9d1d9&dates=8b949e&border=30363d" alt="streak" /></a>
+<a href="https://github.com/UditAwasthi"><img height="170" src="https://github-readme-stats.vercel.app/api?username=UditAwasthi&show_icons=true&icon_color=F5C518&title_color=F5C518&text_color=c9c9c9&bg_color=0a0a0a&border_color=2a2a2a&count_private=true&include_all_commits=true" alt="stats" /></a>
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats"><img height="170" src="https://streak-stats.demolab.com/?user=UditAwasthi&base=0a0a0a&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&currStreakNum=ffffff&sideLabels=c9c9c9&sideNums=c9c9c9&dates=8b8b8b&border=2a2a2a" alt="streak" /></a>
 
 <br/><br/>
 
-<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditAwasthi&layout=compact&title_color=ffffff&text_color=8b949e&bg_color=0d1117&border_color=30363d&langs_count=6" alt="langs" />
+<img width="480" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UditAwasthi&layout=compact&title_color=F5C518&text_color=c9c9c9&bg_color=0a0a0a&border_color=2a2a2a&langs_count=6" alt="langs" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UditAwasthi&bg_color=0d1117&color=c9d1d9&line=8b949e&point=ffffff&area=true&area_color=8b949e30&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="activity graph" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=UditAwasthi&bg_color=0a0a0a&color=F5C518&line=F5C518&point=ffffff&area=true&area_color=F5C51825&hide_border=true&custom_title=THE%20RECORD" alt="activity graph" />
 
 <br/><br/>
 
@@ -118,22 +130,22 @@ FRONT         react · react native · next.js · tailwind · electron
 
 <br/>
 
-<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:30363d,100:c9d1d9" alt="" /></div>
+<div align="center"><img width="86%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0a0a0a,100:F5C518" alt="" /></div>
 
 <br/>
 
 <div align="center">
 
-*"complexity is easy — clarity is the craft."*
+*"it's not who i am underneath, but what i do that defines me."*
 
 <br/>
 
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-161b22?style=for-the-badge&logo=linkedin&logoColor=c9d1d9)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)
-[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-161b22?style=for-the-badge&logo=vercel&logoColor=8b949e)](https://uditawasthi.in)
-[![GITHUB](https://img.shields.io/badge/GITHUB-161b22?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/UditAwasthi)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=F5C518)](https://www.linkedin.com/in/udit-awasthi-2b546a380/)
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-0a0a0a?style=for-the-badge&logo=vercel&logoColor=F5C518)](https://uditawasthi.in)
+[![GITHUB](https://img.shields.io/badge/GITHUB-0a0a0a?style=for-the-badge&logo=github&logoColor=F5C518)](https://github.com/UditAwasthi)
 
-<br/><br/>
+<br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=slicing&color=0:0d1117,100:30363d&height=110&section=footer&reversal=true" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:0a0a0a&height=120&section=footer&reversal=true" alt="footer" />
 
 </div>
